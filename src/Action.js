@@ -18,7 +18,10 @@ function getUserNameStyle2 ()
     }
 }
 
-function replace ()
+function replace (a)
 {
-
+    if(a==1)
+    {
+        replace("HtmlPageChanging/page1.html");
+    }
 }
